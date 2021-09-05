@@ -138,6 +138,10 @@ color: #fff;
 
 /* preloader ends  */
 
+.nav_section .navbar button .fa{
+    font-size: 24px;
+}
+
 .nav_section .navbar-brand{
     font-size: 30px;
     font-family: 'Carter One', cursive;
