@@ -395,6 +395,17 @@ color: #fff;
     margin-top: 30px;
 }
 
+.about .about-content .personal-info .buttons a{
+    color: #fff;
+ font-family: 'Carter One', cursive;
+ }
+ 
+ .about .about-content .personal-info .buttons a:hover{
+    color: #000;
+    text-decoration:none ;
+ }
+ 
+
 .about .about-content .personal-info .buttons .btn{
     margin-right: 15px;
     margin-top: 10px;
